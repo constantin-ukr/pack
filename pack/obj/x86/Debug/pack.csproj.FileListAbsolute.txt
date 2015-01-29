@@ -1,0 +1,11 @@
+D:\Practic C#\pack\pack\obj\x86\Debug\pack.Properties.Resources.resources
+D:\Practic C#\pack\pack\bin\Debug\pack.exe
+D:\Practic C#\pack\pack\bin\Debug\pack.pdb
+D:\Practic C#\pack\pack\obj\x86\Debug\pack.frmCompress.resources
+D:\Practic C#\pack\pack\obj\x86\Debug\pack.exe
+D:\Practic C#\pack\pack\obj\x86\Debug\pack.pdb
+D:\Practic C#\pack\pack\bin\Debug\pack.exe.config
+D:\Practic C#\pack\pack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Practic C#\pack\pack\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Practic C#\pack\pack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Practic C#\pack\pack\obj\x86\Debug\pack.frmDlgFolder.resources

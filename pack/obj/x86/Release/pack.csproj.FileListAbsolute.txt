@@ -1,0 +1,13 @@
+D:\Practic C#\pack\pack\bin\Release\pack.exe.config
+D:\Practic C#\pack\pack\bin\Release\pack.exe
+D:\Practic C#\pack\pack\bin\Release\pack.pdb
+D:\Practic C#\pack\pack\obj\x86\Release\pack.frmCompress.resources
+D:\Practic C#\pack\pack\obj\x86\Release\pack.frmDlgFolder.resources
+D:\Practic C#\pack\pack\obj\x86\Release\pack.Properties.Resources.resources
+D:\Practic C#\pack\pack\obj\x86\Release\pack.exe
+D:\Practic C#\pack\pack\obj\x86\Release\pack.pdb
+D:\Practic C#\ClientZipUnZip\ClientZipUnZip\bin\Release\pack.exe.config
+D:\Practic C#\ClientZipUnZip\ClientZipUnZip\bin\Release\pack.exe
+D:\Practic C#\ClientZipUnZip\ClientZipUnZip\bin\Release\pack.pdb
+D:\Practic C#\pack\pack\obj\x86\Release\pack.csprojResolveAssemblyReference.cache
+D:\Practic C#\pack\pack\obj\x86\Release\pack.csproj.GenerateResource.Cache
